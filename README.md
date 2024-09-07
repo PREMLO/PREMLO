@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Lohia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"I'm studying Computer Science and actively improving my coding abilities. I'm passionate about addressing practical challenges and designing creative solutions that help people save time and boost productivity."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premlo&label=Profile%20views&color=0e75b6&style=flat" alt="premlo" /> </p>
 
